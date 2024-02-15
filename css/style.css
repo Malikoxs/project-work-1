@@ -106,3 +106,13 @@ section{
 .coffee .sec_tit{
 	margin-bottom: 25px;
 }
+
+.ingredients_content{
+	max-width: 610px;
+}
+.Natural_img{
+	max-width: 610px;
+}
+.Natural_in{
+	align-items: center;
+}
